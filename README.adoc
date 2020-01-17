@@ -1,0 +1,89 @@
+= Only Good Restaurants
+Marcin Zięba
+v0.0.1, 2020-01-17
+:toc: macro
+:toc-title: Lokalizacje
+:toclevels: 2
+
+[food microblog in Polish]
+Ten dokument zawiera listę restauracji, w których byliśmy i do których chętnie wrócimy. Kolejność restauracji ma znaczenie - czym wyżej na liście tym lepiej oceniana. Jest to subiektywna ocena.
+
+toc::[]
+== Polska
+=== Warszawa
+
+[%autowidth, options=header, cols="2,3a,4a,6,7"]
+|===
+| Pozycja | Nazwa | Rodzaj kuchni | Komentarz | Gdzie
+| {counter:warszawa} | Shizen Sushi | japońska - sushi | - | https://goo.gl/maps/ckWfK2gAcfEZAXKr9[mapa]
+| {counter:warszawa} | Gold Sushi | japońska - sushi | - | https://goo.gl/maps/fbFFXChwHNgoHPY88[mapa]
+| {counter:warszawa} | Basil&Lime | tajska | - | https://goo.gl/maps/5j4iaU2WiSSYRMx96[mapa]
+| {counter:warszawa} | Maghreb | marokańska | pyszny tadżin | https://goo.gl/maps/NBXyU5sceKy3vS9y9[mapa]
+| {counter:warszawa} | Sake Izakaya | japońska - sushi | - | https://goo.gl/maps/LdFrCSez1Sc8DiZw9[mapa]
+| {counter:warszawa} | Barn Burger | burger | - | https://goo.gl/maps/f13WZ3vswSJKRzgo6[mapa]
+| {counter:warszawa} | Dos Tacos | meksykańska | - | https://goo.gl/maps/SW29WNitRm3bL6Lq9[mapa]
+| {counter:warszawa} | Benihana | japońska | przepyszne steki z tuńczyka, restauracja ze stołami do gotowania na żywo | https://goo.gl/maps/8kR9AojWxyYx1C4C9[mapa]
+| {counter:warszawa} | Dziki ryż | azjatycka | - | https://goo.gl/maps/Gdqs41ubTsXYajV1A[mapa]
+| {counter:warszawa} | Ciao a Tutti, | włoska | Najlepsza pizza w stylu neapolitańskim | https://goo.gl/maps/hRCcZQDfpvh4Zqdj6[mapa]
+| {counter:warszawa} | Grand Kredens | polska | przepyszny gulasz z dzika z plackami ziemniaczanymi | https://goo.gl/maps/dkPvjcMVyqSQr7rh6[mapa]
+| {counter:warszawa} | Pełną Parą na Nowo | azjatycka - pierożki | - | https://goo.gl/maps/uqdswkeYXfyXK5fL7[mapa]
+| {counter:warszawa} | Mugi | japońska - ramen | - | https://goo.gl/maps/uU3BFjRA1dP9wKWm8[mapa]
+| {counter:warszawa} | Milanovo | włoska | pyszne risotto z kaczką i burakiem, pizza na bardzo wysokim poziomie  | https://goo.gl/maps/ZgmA5oqrCW1bNmzCA[mapa]
+| {counter:warszawa} | Italiana | włoska | przepyszna capriciosa | https://goo.gl/maps/47CvfPkiNXsNJgr69[mapa]
+| {counter:warszawa} | Locale | włoska | pyszna pasta z mango i pizza na bardzo wysokim poziomie | https://goo.gl/maps/YKzzUPBx7mR2ymr56[mapa]
+| {counter:warszawa} | Vege Love | vege | najlepsze vege curry ever | https://goo.gl/maps/ahWqo9hvenJWu1MR9[mapa], https://vege.love/[link]
+| {counter:warszawa} | Gaumarjos | gruzińska | - | https://goo.gl/maps/FoUWNuMNLos2BEfq6[mapa]
+| {counter:warszawa} | St. Antonio Chleb i Wino | włosko-polska | - | https://goo.gl/maps/tQ6KzVCC6E1ucJ6z6[mapa]
+| {counter:warszawa} | Aioli | różnorodna | całkiem niezła pizza i dobre makarony, pyszny stek siekany, bardzo gwarny klimat restauracji | https://g.page/AIOLISwietokrzyska?share[mapa]
+| {counter:warszawa} | Babooshka | rosyjska | - | https://goo.gl/maps/CDCEBUJZ9ZSRgPTR6[mapa]
+| {counter:warszawa} | Tahina | arabska | - | https://goo.gl/maps/MFfXLBuxYBfNutih8[mapa]
+| {counter:warszawa} | Mango Curry | indyjska | pyszne curry mango z kurczakiem | https://goo.gl/maps/gLmrWDQMqyHgExgVA[mapa]
+| {counter:warszawa} | Tbilisi | gruzińska | - | https://goo.gl/maps/CpeoVMZqxS1SrtMfA[mapa]
+| {counter:warszawa} | Mały Belgrad | bałkańska | - | https://goo.gl/maps/tySJpi7XgCboRtgi9[mapa]
+| {counter:warszawa} | Loco Mexicano | meksykańska | - | https://goo.gl/maps/gcGcUA8pXGmNTAnRA[mapa]
+| {counter:warszawa} | Zachodni brzeg | izraelska | - | https://goo.gl/maps/gkhT46bkopvjm8Ra7[mapa]
+| {counter:warszawa} | Ed Red | steki i wino | - | https://g.page/Ed-Red-Warszawa-Hala-Mirowska?share[mapa]
+| {counter:warszawa} | Efes Kebab | kebab | bardzo dobry, inny niż zwykle kebab | https://goo.gl/maps/w8jxH6oR4bYinQfXA[mapa]
+| {counter:warszawa} | Pogromcy meatów | kebab | - | https://goo.gl/maps/1S8ejrGnxmfn3SFE8[mapa]
+| {counter:warszawa} | Florian Ogień czy Woda | polska | bardzo elegancka | https://g.page/Florianrestauracja?share[mapa]
+| {counter:warszawa} | Kotłownia | włoska | restauracja i skład wina, bardzo elegancko | https://goo.gl/maps/bLrz7TrttFTPHJn26[mapa]
+| {counter:warszawa} | Borpince | węgierska | bardzo klimatyczne miejsce i pyszne jedzenie | https://goo.gl/maps/vVUJVKhKrMk3gFDQ9[mapa]
+| {counter:warszawa} | Ruža Roza | bałkańska | - | https://goo.gl/maps/dXAKumQUcrg5ddiv7[mapa]
+|===
+
+
+=== Poznań
+
+[%autowidth, options=header, cols="2,3a,4a,6,7"]
+|===
+| Pozycja | Nazwa | Rodzaj kuchni | Komentarz | Gdzie
+| {counter:poznan} | La Ruina i Raj | międzynarodowa | najlepsza restauracja w jakiej byłem, super przyjazna atomosfera, przepyszne jedzenie inspirowane podróżami właścicieli, świetny wystrój | https://g.page/laruinairaj?share[mapa]
+| {counter:poznan} | Klub Południe | połdniowoamerykańska | pysznie i klimatycznie | https://goo.gl/maps/ChKtXdHp7JPJuJBG8[mapa]
+| {counter:poznan} | Bar a boo | włoska - pizza | mega tania i pyszna pizza | https://goo.gl/maps/jVCagJS8YckRZ9cb6[mapa]
+| {counter:poznan} | Krasz Kebab | kebab | kebab z ciekawymi składnikami (np. mięta, sos z wędzonych papryczek, feta) | https://g.page/naszkebab?share[mapa]
+|===
+
+=== Kołobrzeg
+
+[%autowidth, options=header, cols="2,3a,4a,6,7"]
+|===
+| Pozycja | Nazwa | Rodzaj kuchni | Komentarz | Gdzie
+| {counter:kolobrzeg} | Wichłacz GrillHouse | grill | duża oferta dziczyzny z grilla | https://g.page/WichlachGrillHouse?share[mapa]
+| {counter:kolobrzeg} | Trattoria Corleone | włoska | - | https://goo.gl/maps/3yYULEEX3mZRG2t99[mapa]
+|===
+
+=== Gdańsk
+[%autowidth, options=header, cols="2,3a,4a,6,7"]
+|===
+| Pozycja | Nazwa | Rodzaj kuchni | Komentarz | Gdzie
+| {counter:gdansk} | Mąka i kawa | włoska | najlepsza pizza jaką w życiu jedliśmy - serio! | https://goo.gl/maps/RVL2MUXaMB22kUQY8[mapa]
+|===
+
+== Włochy
+=== Rzym
+
+[%autowidth, options=header, cols="2,3a,4a,6,7"]
+|===
+| Pozycja | Nazwa | Rodzaj kuchni | Komentarz | Gdzie
+| {counter:rzym} | Pizzarium | włoska | pyszna pizza w stylu rzymskim sprzedawana na wagę w formie street foodu | https://goo.gl/maps/WudXaSwX65TV95vy5[mapa]
+|===
