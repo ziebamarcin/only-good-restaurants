@@ -5,7 +5,8 @@ v0.0.1, 2020-01-17
 :toc-title: Lokalizacje
 :toclevels: 2
 
-[food microblog in Polish]
+EN: food microblog in Polish
+
 Ten dokument zawiera listę restauracji, w których byliśmy i do których chętnie wrócimy. Kolejność restauracji ma znaczenie - czym wyżej na liście tym lepiej oceniana. Jest to subiektywna ocena.
 
 toc::[]
