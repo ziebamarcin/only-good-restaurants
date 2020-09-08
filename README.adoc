@@ -11,6 +11,17 @@ Ten dokument zawiera listę restauracji, w których byliśmy i do których chęt
 
 toc::[]
 == Polska
+
+=== Gdańsk
+[%autowidth, options=header, cols="2,3a,4a,6,7"]
+|===
+| Pozycja | Nazwa | Rodzaj kuchni | Komentarz | Gdzie
+| {counter:gdansk} | Mąka i kawa | włoska | najlepsza pizza jaką w życiu jedliśmy - serio! | https://goo.gl/maps/RVL2MUXaMB22kUQY8[mapa]
+| {counter:gdansk} | Pasibus | burger | - | https://g.page/pasibus-forum-gdansk?share[mapa]
+| {counter:gdansk} | PING PONG | azjatycka | - | https://goo.gl/maps/tXuySihb3uWZQLHf9[mapa]
+|===
+
+
 === Warszawa
 
 [%autowidth, options=header, cols="2,3a,4a,6,7"]
@@ -72,15 +83,6 @@ toc::[]
 | Pozycja | Nazwa | Rodzaj kuchni | Komentarz | Gdzie
 | {counter:kolobrzeg} | Wichłacz GrillHouse | grill | duża oferta dziczyzny z grilla | https://g.page/WichlachGrillHouse?share[mapa]
 | {counter:kolobrzeg} | Trattoria Corleone | włoska | - | https://goo.gl/maps/3yYULEEX3mZRG2t99[mapa]
-|===
-
-=== Gdańsk
-[%autowidth, options=header, cols="2,3a,4a,6,7"]
-|===
-| Pozycja | Nazwa | Rodzaj kuchni | Komentarz | Gdzie
-| {counter:gdansk} | Mąka i kawa | włoska | najlepsza pizza jaką w życiu jedliśmy - serio! | https://goo.gl/maps/RVL2MUXaMB22kUQY8[mapa]
-| {counter:gdansk} | Pasibus | burger | - | https://g.page/pasibus-forum-gdansk?share[mapa]
-| {counter:gdansk} | PING PONG | azjatycka | - | https://goo.gl/maps/tXuySihb3uWZQLHf9[mapa]
 |===
 
 == Włochy
