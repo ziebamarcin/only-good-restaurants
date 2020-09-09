@@ -17,7 +17,17 @@ toc::[]
 |===
 | Pozycja | Nazwa | Rodzaj kuchni | Komentarz | Gdzie
 | {counter:gdansk} | Mąka i kawa | włoska | najlepsza pizza jaką w życiu jedliśmy - serio! | https://goo.gl/maps/RVL2MUXaMB22kUQY8[mapa]
+| {counter:gdansk} | Hashi Sushi | sushi | Drogo, ale bardzo dobrze | https://goo.gl/maps/QJpSwLdnsUEw6hwV9[mapa]
+| {counter:gdansk} | Lao Thai | tajska | Restauracja w świetnym miejscu z bardzo dobrym jedzeniem | https://goo.gl/maps/Rep8UciKCz2rNg7i9[mapa]
+| {counter:gdansk} | Swojski smak | polska | Bardzo fajny klimat, przystępne ceny i bardzo duże porcje | https://goo.gl/maps/3hCNGbRxBMD7kY9w5[mapa]
+| {counter:gdansk} | Pinata Mexican Food | meksykańska | - | https://goo.gl/maps/op5zGCFKmyen8F6q6[mapa]
 | {counter:gdansk} | Pasibus | burger | - | https://g.page/pasibus-forum-gdansk?share[mapa]
+| {counter:gdansk} | Pierogarnia Mandu | pierogi | najróżniejsze pierogi - od polskich po azjatyckie | https://goo.gl/maps/UfVjfCdWQDcXkrDS8[mapa]
+| {counter:gdansk} | Surf Burger | burger | - | https://goo.gl/maps/nPyK1csbhfjrhiz9A[mapa]
+| {counter:gdansk} | Pan Kotowski | ukraińska | - | https://g.page/PanKotowski?share[mapa]
+| {counter:gdansk} | Fischgarten | polska/grill | - | https://g.page/Fischgarten?share[mapa]
+| {counter:gdansk} | Sempre Pizza & Vino | pizza | - | https://g.page/Sempre-pizza-vino-TargRybny?share[mapa]
+| {counter:gdansk} | Browar Vrest | browar | sala koncertowa z własnym borwarem i gastronomią | https://goo.gl/maps/8nxsf1eHmj311Rum7[mapa]
 | {counter:gdansk} | PING PONG | azjatycka | - | https://goo.gl/maps/tXuySihb3uWZQLHf9[mapa]
 |===
 
